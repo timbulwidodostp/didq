@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'didq': Difference-in-differences (DiD) estimations treatment effects under alternative Parallel-q assumptions Use didq With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f didq.ado
+f didq.sthlp
